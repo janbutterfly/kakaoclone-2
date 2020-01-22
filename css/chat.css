@@ -60,6 +60,7 @@
   padding-top: 30px;
   border-top: 1px solid #f7f7f7;
   padding: 0px 20px;
+  list-style: none;
 }
 
 .chat__messages .chat__timestamp {
@@ -131,4 +132,8 @@
   to {
     transform: rotateY(1turn);
   }
+}
+
+.chats__list {
+  list-style: none;
 }
